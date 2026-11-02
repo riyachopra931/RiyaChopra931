@@ -1,4 +1,4 @@
-https://github.com/riyachopra931/IPL-Analysis# Hi, I'm Riya Chopra 👋
+# Hi, I'm Riya Chopra 👋
 
 ### Aspiring Data Analyst
 
