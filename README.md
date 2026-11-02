@@ -1,16 +1,30 @@
-## Hi there 👋
+https://github.com/riyachopra931/IPL-Analysis# Hi, I'm Riya Chopra 👋
 
-<!--
-**riyachopra931/RiyaChopra931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Data Analyst | SQL | Python | Power BI | Excel | Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Data Analyst passionate about
+transforming raw data into meaningful insights.
+
+## 🛠 Technical Skills
+
+- SQL: Joins, Subqueries, Aggregations
+- Python: Pandas, NumPy, Matplotlib
+- Power BI: Dashboards, DAX
+- Excel: Pivot Tables, VLOOKUP
+- Tableau: Data Visualization
+- Machine Learning: Fundamentals
+
+## 📂 Projects
+
+- [IPL Data Analysis | Power BI](https://github.com/riyachopra931/IPL-Analysis)
+
+## 🎓 Education
+
+- MCA – IGNOU (Pursuing)
+- BBA – Completed
+
+## 🔗 Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/riya-chopra-4a41a5295
